@@ -1,0 +1,142 @@
+.container-fluid{
+  margin-left: 5%;
+  margin-right: 5%;
+  }
+  .clsHeader{
+    text-align: left;
+    margin-right: 65px;
+  
+  }
+  .clsLogin{
+    border: 1px solid;
+    /* margin-top: 100px; */
+    margin-left: 280px; 
+    margin-right: 450px;
+    padding: 75px;
+    
+  }
+  /* .btn{
+    border: 1px solid;
+    box-align: left;
+  } */
+  .btnTech{
+    border: 1px solid;
+    padding: 2%;
+
+  }
+  .btnTech1{
+    border: 1px solid;
+  }
+  .btnTech2{
+    border: 1px solid;
+  }
+  .btnTech3{
+    border: 1px solid;
+  }
+  .col-md-12{
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    
+  }
+  
+  .btnStyle button{
+    padding: 10px 32px;
+    text-align: left;
+    font-size: 12px;
+    margin-right: 20px;
+    background-color: white;
+    /* border: 1px solid; */
+    border: 1px solid;
+    box-align: left;
+  }
+  
+  .float {
+    float:right;
+  }
+  .fas
+  {
+    margin: 5px;  
+  }
+  .mystyle{
+    color: red;
+  }
+  
+  .btn-circle{
+    border: 1px solid;
+    /* margin-top: 5px; 
+    padding: 5px */
+  
+    /* padding: 10px 32px;
+    text-align: left;
+    font-size: 10px;
+    margin-right: 20px;
+    background-color: white; */
+    /* border: 1px solid; */
+    /* border: 1px solid; */
+    /* box-align: left; */
+    
+      width: 40px;
+      height: 40px;
+      padding: 6px 0px;
+      border-radius: 20px;
+      text-align: center;
+      font-size: 12px;
+      line-height: 1.42857;
+      margin-left: 10px;
+  }
+  
+  .submitCase{
+    margin-top: 5%;
+    text-align: center;
+  }
+  label {
+    display: block;
+    clear: both;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    padding-bottom: 10px;
+  }
+  .btn_narrow{
+    display: inline;
+    width: 24%;
+    text-align: center !important;
+  }
+  
+  .clsSubmit{
+    display: block;
+    max-width: 300px;
+    margin: auto;
+    background-color: skyblue;
+    padding: 10px 32px;
+  }
+  
+  .add_info{
+    margin-top: 50px;
+  }
+  .row {
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-bottom: -20px;
+  }
+  .finalAlign table td, th{
+    border: 1px solid black;
+    width: 10%;
+    height: 35px;
+    padding-left: 5px;
+    margin-top: 33px;
+  
+  }
+  
+  .upload{
+    border: 1px solid;
+    width: 100%;
+    height: 146px;
+    padding-left: 35%;
+    /* margin-left: 12%; */
+    padding-top: 5%;
+    background-color: darkgray;
+    color: black;
+  
+  }
